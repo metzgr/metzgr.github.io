@@ -3277,7 +3277,7 @@
 
 	#sidebar {
 		padding: 2.5em 2.5em 0.5em 2.5em ;
-		background: #262C30;
+		background: #1B1F22;
 		cursor: default;
 		height: 100vh;
 		left: 0;
@@ -3514,7 +3514,7 @@
 			}
 
 			#sidebar nav a:before {
-				background: #31393E;
+				background: #272A2D;
 			}
 
 			#sidebar nav a:after {
